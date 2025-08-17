@@ -1,49 +1,24 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/geeky-prashant/responsive-gym-website)
-  ![GitHub stars](https://img.shields.io/github/stars/geeky-prashant/responsive-gym-website)
-  ![GitHub forks](https://img.shields.io/github/forks/geeky-prashant/responsive-gym-website?style=social)
- 
-  <br />
+              Live Demo - gym-project-teal-ten.vercel.app
 
-  <h2 align="center">Responsive GYM Website</h2>
+# 🏋️ Gym Website
 
-  In this project, I have created Responsive GYM Website, The project is built using HTML, CSS & JavaScript.
+A responsive **Gym Website** built with **HTML, CSS, and JavaScript**.  
+The project showcases a modern UI with smooth navigation and interactive features, designed to provide a clean and engaging user experience.
 
-  <a href="https://geeky-prashant.github.io/responsive-gym-website/"><strong>➥ Live Demo</strong></a>
+---
 
-</div>
+## 🚀 Features
+- Responsive design (mobile, tablet, desktop support)  
+- Interactive navigation bar  
+- Modern UI with CSS animations  
+- Clean and optimized code structure  
+- Sections for home, about, services, and contact  
 
-### Demo Screeshots
+---
 
-![Responsive GYM Website Desktop Demo](./readme-images/Responsive-GYM-Website.png "Desktop Demo")
+## 🛠️ Technologies Used
+- **HTML5** – Structure of the site  
+- **CSS3** – Styling and responsiveness  
+- **JavaScript** – Interactivity and dynamic features  
 
-### Prerequisites
 
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-### Run Locally
-
-To run **responsive-gym-website** locally, run this command on your git bash:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/geeky-prashant/responsive-gym-website.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/geeky-prashant/responsive-gym-website.git
-```
-
-### Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/geekyprashant).
-
-### License
-
-This project is **free to use** and does not contains any license.
