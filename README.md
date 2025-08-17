@@ -1,4 +1,5 @@
-                          Live Demo - <Button>click me </Button> gym-project-teal-ten.vercel.app
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-green?style=for-the-badge)](https://gym-project-teal-ten.vercel.app)
+
 
 # 🏋️ Gym Website
 
